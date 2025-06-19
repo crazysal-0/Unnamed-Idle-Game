@@ -7,6 +7,10 @@ A game I made with html, css and js. There are secrets in the dev console, this 
 
 Hit the three dots and then hit "Download Zip". in your file explorer, unzip the file. Find the version you want to run and find that versions index.html, right click on the .html file and click run with your broswer.
 
+## How to Play
+
+To play this game you need to click until you can buy an upgrade, for really early game I'd reccomend buying click power upgrades
+
 ---
 
 UPDATE 1.01
