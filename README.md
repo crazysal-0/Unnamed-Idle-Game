@@ -1,9 +1,11 @@
 # Unnamed-Idle-Game
 A game I made with html, css and js. There are secrets in the dev console, this game is very new by the way; so it's kinda basic. I will add updates later on, if you want me to add anything just ask!
 
-=How to Install=
+## How to Install
 
----------------------------------------
+Find the folder with the version you want to play, hit the three dots and then hit "Download add zip". Unzip the file, right click on the .html file and click run with your broswer.
+
+---
 
 UPDATE 1.01
 MINI-UPDATE: Saving!!
@@ -19,4 +21,4 @@ COMING SOON:
 -Beter UI
 -QOL Changes
 
----------------------------------------
+---
