@@ -1,2 +1,6 @@
-Saving & Loading
+Saving & Loading - DONE
 Acheivments
+Music
+More easter eggs
+Better UI
+QOL Changes
