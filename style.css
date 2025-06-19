@@ -1,0 +1,105 @@
+body {
+  background-color: #606C38;
+  color: #FEFAE0;
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+hr {
+  opacity: 0.75;
+  margin: 2rem auto;
+  max-width: 600px;
+}
+
+#big-button {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 20px 28px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  background-color: #DDA15E;
+  color: #606C38;
+  border: 2px solid #BC6C25;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-align: center;
+}
+
+#big-button:hover {
+  background-color: #BC6C25;
+  color: #FEFAE0;
+  transform: scale(1.02);
+}
+
+#heading {
+  font-family: Gothic-Expanded-One;
+  font-size: calc(2.375rem + 1.5vw);
+}
+
+#upgrades {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  width: 75%;
+  margin: 20px auto;
+}
+
+#upgrades button {
+  width: 160px !important;
+  padding: 12px 20px !important;
+  font-size: 16px !important;
+  font-family: "Montserrat", sans-serif;
+  background-color: #FEFAE0;
+  color: #606C38;
+  border: 2px solid #DDA15E;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.2s ease !important;
+}
+
+#upgrades button:hover {
+  background-color: #283618 !important;
+  color: #FEFAE0 !important;
+  border-color: #283618 !important;
+  transform: translateY(-2px) scale(1.03) !important;
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+#settings-icon {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  font-size: 28px;
+  cursor: pointer;
+  color: #FEFAE0;
+  z-index: 999;
+}
+
+#settings-achievements {
+  background-color: #606C38;
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: 1px solid #283618;
+}
+
+#achievement-list {
+  color: #DDA15E;
+  font-size: 15px;
+}
+
+#ver-text {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  opacity: 50%;
+  font-family: Oxanium;
+  font-size: 30px;
+}
